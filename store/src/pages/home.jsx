@@ -1,8 +1,11 @@
 import React from 'react'
+import Articulos from '../components/Articulos.jsx'
 
 const home = () => {
     return (
-        <div>home</div>
+        <div>
+            <Articulos />
+        </div>
     )
 }
 
